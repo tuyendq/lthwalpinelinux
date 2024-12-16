@@ -3,6 +3,6 @@ LTHW Alpine Linux
 
 
 ```bash
-sudo apk add samba-client
+sudo apk add tmux openvpn samba-client
 
 ```
